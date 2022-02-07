@@ -1,0 +1,33 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\bin\Debug\Dati\effects-of-covid-19-on-trade.csv
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.pdb
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\bin\Debug\Dati\effects-of-covid-19-on-trade.csv
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe.config
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.pdb
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.AssemblyReference.cache
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Form1.resources
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Properties.Resources.resources
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.GenerateResource.cache
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.exe
+C:\Users\Gahab\source\repos\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.pdb
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\bin\Debug\Dati\effects-of-covid-19-on-trade.csv
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe.config
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.exe
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\bin\Debug\CovidStatistics.pdb
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Form1.resources
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.exe
+C:\Users\Gahab\Desktop\HW3\Programmi\CovidStatistics\CovidStatistics\obj\Debug\CovidStatistics.pdb
